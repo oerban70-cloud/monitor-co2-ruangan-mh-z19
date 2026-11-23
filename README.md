@@ -6,7 +6,7 @@ buzzer berbunyi, lampu merah menyala, dan kipas pembuangan otomatis
 jalan lewat relay sampai udara kembali segar.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/8HFhKKzaSwE
 
 ## Komponen
 
